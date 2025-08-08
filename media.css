@@ -1,0 +1,230 @@
+@media (max-width:1800px){
+    .toggle-icon {
+        visibility: hidden !important;
+    }
+    .card-img-top {
+        width: 50% !important;
+        height: 50% !important;
+        margin: auto !important;
+    }
+
+    .card {
+        height: 100% !important;
+    }
+}
+@media (max-width:1600px) {
+    .toggle-icon {
+        visibility: hidden !important;
+    }
+
+    .card-img-top {
+        width: 50% !important;
+        height: 50% !important;
+        margin: auto !important;
+    }
+
+    .card {
+        height: 100% !important;
+    }
+}
+
+@media (max-width:1400px) {
+    .toggle-icon {
+        visibility: hidden !important;
+    }
+
+    .card-img-top {
+        width: 50% !important;
+        height: 50% !important;
+        margin: auto !important;
+    }
+
+    .card {
+        height: 100% !important;
+    }
+}
+
+@media(max-width:1200px) {
+    .toggle-icon {
+        visibility: hidden;
+    }
+
+    .card-img-top {
+        width: 50% !important;
+        height: 50% !important;
+        margin: auto !important;
+    }
+
+    .card {
+        height: 100% !important;
+    }
+}
+
+@media (max-width:991px) {
+    .toggle-icon {
+        visibility: hidden;
+    }
+
+    .contact {
+        width: 100%;
+    }
+
+    .contact-form {
+        width: 100%;
+        margin-inline: auto;
+    }
+
+
+    .shoes {
+        margin-top: 20px;
+    }
+
+    .belt {
+        margin-top: 20px;
+    }
+
+    .watch {
+        margin-top: 20px;
+    }
+
+    .navbar ul li {
+        display: inline-block;
+        margin-left: 30px;
+    }
+    .search{
+        margin-right:0;
+    }
+
+}
+
+@media (max-width:768px) {
+    .toggle-icon {
+        color: white;
+        font-size: 20px;
+        margin-left: 20px;
+        visibility: visible !important;
+    }
+
+    .list {
+        display: none;
+    }
+
+    .shirt {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .t-shirts {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .jeans {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .shoes {
+        width: 50%;
+        margin-bottom: 20px;
+        margin-top: 0 !important;
+    }
+
+    .watch {
+        width: 50%;
+        margin-bottom: 20px;
+        margin-top: 0 !important;
+    }
+
+    .belt {
+        width: 50%;
+        margin-bottom: 20px;
+        margin-top: 0 !important;
+    }
+
+    .search {
+        display: none !important;
+    }
+
+    .contact {
+        width: 100%;
+    }
+
+    .contact-form {
+        width: 100%;
+        margin: auto;
+    }
+
+    .card-img-top {
+        width: 50% !important;
+        height: 50% !important;
+        margin: auto !important;
+    }
+
+    .card {
+        height: 100%;
+    }
+
+}
+
+@media (max-width:600px) {
+    .toggle-icon {
+        color: white !important;
+        font-size: 20px;
+        margin-left: 20px;
+        visibility: visible !important;
+    }
+
+    .list {
+        display: none;
+    }
+
+    .shirt {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .t-shirts {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .jeans {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .shoes {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .watch {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .belt {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .search {
+        display: none !important;
+    }
+
+    .contact {
+        width: 100%;
+    }
+
+    .card-img-top {
+        width: 50% !important;
+        height: 80% !important;
+        margin: auto !important;
+    }
+
+    .contact-form {
+        width: 100%;
+        margin: auto;
+    }
+}
