@@ -1,2 +1,2 @@
 # Landing_Page_Codsoft
-All three tast for web development internship
+This is task 1 landing page
